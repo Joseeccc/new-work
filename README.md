@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
+		<title></title>
 	</head>
 	<body>
 			<header>
@@ -26,7 +27,7 @@
 			<footer>
 			 <p>
 			<small>
-					版权所有：Joseeccc
+					版权所有：陆凌牛
 			</small>
 		     </p>
 			</footer>
