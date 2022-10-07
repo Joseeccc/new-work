@@ -27,7 +27,7 @@
 			<footer>
 			 <p>
 			<small>
-					版权所有：陆凌牛
+					版权所有：Joseeccc
 			</small>
 		     </p>
 			</footer>
